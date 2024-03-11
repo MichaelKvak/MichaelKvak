@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MichaelKvak
+- 👋 Hi, I’m Michael Kvak
 - 🌱 I’m currently interested and learning different JavaScript frameworks for Quality Assurance Test Automation 
 - 📫 mkvak1987@gmail.com
 -  https://www.linkedin.com/in/michael-kvak-594b91218
